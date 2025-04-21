@@ -1,0 +1,10 @@
+{
+  "name": "bitter/map_styles",
+  "type": "concrete5-package",
+  "description": "Map Styles is a Concrete CMS add-on that allows you to apply custom Google Maps styles globally on any page.",
+  "autoload": {
+    "psr-4": {
+      "Bitter\\MapStyles\\": "src/Bitter/MapStyles"
+    }
+  }
+}

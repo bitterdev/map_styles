@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concrete5-cif version="1.0">
+    <singlepages>
+        <page name="Map Styles" path="/dashboard/map_styles"
+              filename="/dashboard/map_styles.php"
+              pagetype="" description=""
+              package="map_styles">
+        </page>
+    </singlepages>
+</concrete5-cif>
