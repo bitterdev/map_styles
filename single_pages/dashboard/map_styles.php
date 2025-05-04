@@ -30,6 +30,8 @@ $token = $app->make(Token::class);
     View::element("dashboard/help", [], "map_styles"); ?>
 </div>
 
+<?php \Concrete\Core\View\View::element("dashboard/did_you_know", [], "map_styles"); ?>
+
 <form action="#" method="post">
     <?php echo $token->output("update_settings"); ?>
 
